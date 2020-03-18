@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tech Quotes</string>
+    <string name="tech_quotes">We have to stop optimizing for programmers and start optimizing for users. By Jeff Atwood</string>
+</resources>
